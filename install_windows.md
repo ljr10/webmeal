@@ -10,6 +10,7 @@ cmd 를 같은 경로 에서 열어줍니다
 
 "pip3 install requests"
 "pip3 install flask"
+
 web.py 를 실행시켜줍니다
 
 "python3 web.py"
